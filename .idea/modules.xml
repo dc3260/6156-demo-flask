@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/demo-flask.iml" filepath="$PROJECT_DIR$/.idea/demo-flask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/6156-demo-flask.iml" filepath="$PROJECT_DIR$/.idea/6156-demo-flask.iml" />
     </modules>
   </component>
 </project>
